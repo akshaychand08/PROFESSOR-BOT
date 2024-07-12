@@ -19,7 +19,6 @@ from database.gfilters_mdb import find_gfilter, get_gfilters
 from database.users_chats_db import db
 
 # Image Editor Function
-from image.edit_1 import bright, mix, black_white, g_blur, normal_blur, box_blur
 from image.edit_2 import circle_with_bg, circle_without_bg, sticker, edge_curved, contrast, sepia_mode, pencil, cartoon                             
 from image.edit_3 import green_border, blue_border, black_border, red_border
 from image.edit_4 import rotate_90, rotate_180, rotate_270, inverted, round_sticker, removebg_white, removebg_plain, removebg_sticker
